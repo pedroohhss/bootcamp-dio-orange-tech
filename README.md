@@ -13,9 +13,9 @@ Campo referente ao módulo de Primeiras Páginas Interativas com JavaScript
 [**Variáveis e Operadores**](primeiros-passos-com-js/variaveis-e-operadores/Aula.js)
 
    **Listas de Exercicios** <br>
-[***Lista de Exercicios 01***](primeiros-passos-com-js/lista-exercicios/listaDeExercicios01.js)
-[***Lista de Exercicios 02***](primeiros-passos-com-js/lista-exercicios/listaDeExercicios02.js)
-[***Lista de Exercicios 03***](primeiros-passos-com-js/lista-exercicios/listaDeExercicios03.js)
+[***Lista de Exercicios 01***](primeiros-passos-com-js/lista-exercicios/listaDeExercicios01.js) <br>
+[***Lista de Exercicios 02***](primeiros-passos-com-js/lista-exercicios/listaDeExercicios02.js) <br>
+[***Lista de Exercicios 03***](primeiros-passos-com-js/lista-exercicios/listaDeExercicios03.js) <br>
 
 ### Conhecendo Funções JavaScript
 
